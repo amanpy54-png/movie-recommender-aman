@@ -29,7 +29,6 @@ This is a **Movie Recommender System** web application built with **Python** and
 - `app.py` – Main Streamlit app.
 - `movie_dict.pkl` – Dictionary of movies used in the app.
 - `similarity.pkl` – Precomputed similarity matrix.
-- `requirements.txt` – Required Python libraries.
 - `.gitignore` – Ignored files and folders.
 - `README.md` – Project documentation.
 
